@@ -1,8 +1,7 @@
 # Some useful links
 
 # Github
-* [Git](https://cfss.uchicago.edu/setup/git-with-rstudio/)
-* [Package on Git](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session2.4_github.html)
+* [Github from RStudio](https://cfss.uchicago.edu/setup/git-with-rstudio/)
 * [R package tutorial](https://r-pkgs.org/whole-game.html)
 
 
